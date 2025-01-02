@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Desktop\E-JUST\Semester 7\Computer Graphics\Lab\LabAssign1_Draw_Thick_Dot\120210211_Mostafa\x64\Debug\120210211_Mostafa.exe
+C:\Desktop\E-JUST\Semester 7\Computer Graphics\Lab\Homework 4 - Copy\120210211_Mostafa\x64\Debug\120210211_Mostafa.exe
+C:\Desktop\E-JUST\Semester 7\Computer Graphics\Lab\Whack-a-Mole\120210211_Mostafa\x64\Debug\120210211_Mostafa.exe
+C:\Desktop\E-JUST\Semester 7\Computer Graphics\Lab\Whack-a-Mole\x64\Debug\120210211_Mostafa.exe
